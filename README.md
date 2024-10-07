@@ -27,11 +27,9 @@ A Python-based scraper to extract medicine details from the [1mg](https://www.1m
 2. Install the required dependencies:
 
 ```pip install -r requirements.txt
-
 ```
 
 3. Run the script to start scraping:
 
 ```python 1mg_scraper.py
-
 ```
